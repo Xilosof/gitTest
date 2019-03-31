@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
 using System.Threading;
-
+using System.Threading;
 namespace Lab2
 {
     public partial class barForm : Form
